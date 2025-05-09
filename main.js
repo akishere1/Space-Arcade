@@ -5,7 +5,6 @@ const context = canvas.getContext("2d");
 canvas.width = innerWidth;
 canvas.height = innerHeight;
 
-// Hello Prithwas how are you da
 // Player class
 class Player {
   constructor(game) {
