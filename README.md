@@ -24,6 +24,8 @@ A retro-style alien shooter arcade game built using vanilla JavaScript and HTML5
    Open index.html in your web browser.
 
 💾 Folder Structure
+
+```bash
 space-arcade/
 │
 ├── index.html
@@ -37,6 +39,7 @@ space-arcade/
 │   └── ...
 ├── README.md
 └── LICENSE
+```
 
 🙌 Contributing
 Pull requests are welcome! If you'd like to add new features or improve the game mechanics, feel free to fork the repo and submit a PR.
