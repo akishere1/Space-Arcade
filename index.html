@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ultimate Space Arcade</title>
+    <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        overflow: hidden;
+      }
+      img {
+        position: absolute;
+        display: none;
+      }
+      canvas {
+        background: url(/assets/background_1280x720.png);
+        background-size: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="assets/" id="boss" alt="boss" />
+    <img src="assets/explosions.png" id="explosions" alt="explosions" />
+    <img src="assets/beetlemorph.png" id="beetlemorph" alt="beetlemorph" />
+    <img src="assets/rhinomorph.png" id="rhinomorph" alt="rhinomorph" />
+    <img src="/assets/player.png" id="player" alt="player" />
+    <img src="/assets/player_jets.png" id="player_jets" alt="player_jets" />
+    <canvas width="0" height="0"></canvas>
+    <script src="main.js" defer></script>
+  </body>
+</html>
