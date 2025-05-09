@@ -18,15 +18,17 @@ A retro-style alien shooter arcade game built using vanilla JavaScript and HTML5
 1. Clone the repository:
    ```bash
    git clone https://github.com/PrithwisK07/Space-Arcade.git
+1. Clone the repository:
+   ```bash
    cd Space-Arcade
-2. Run index.html:
+3. Run index.html:
    ```bash
    Open index.html in your web browser.
 
 💾 Folder Structure
 
 ```bash
-space-arcade/
+Space-Arcade/
 │
 ├── index.html
 ├── main.js
