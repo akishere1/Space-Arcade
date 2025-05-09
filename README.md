@@ -18,8 +18,10 @@ A retro-style alien shooter arcade game built using vanilla JavaScript and HTML5
 1. Clone the repository:
    ```bash
    git clone https://github.com/PrithwisK07/Space-Arcade.git
-   cd alien-invaders
-Open index.html in your web browser.
+   cd Space-Arcade
+2. Run index.html:
+   ```bash
+   Open index.html in your web browser.
 
 💾 Folder Structure
 space-arcade/
