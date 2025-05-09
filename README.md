@@ -47,3 +47,4 @@ Space-Arcade/
 Pull requests are welcome! If you'd like to add new features or improve the game mechanics, feel free to fork the repo and submit a PR.
 
 For major changes, please open an issue first to discuss what you’d like to modify.
+[CONTRIBUTING.md](https://github.com/PrithwisK07/Space-Arcade/tree/main)
