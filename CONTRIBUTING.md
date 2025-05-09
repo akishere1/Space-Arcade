@@ -11,9 +11,9 @@ We welcome all types of contributions: bug reports, improvements, feature additi
 1. **Fork the repository**
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/yourusername/alien-invaders.git
-   cd alien-invaders
-
+   git clone https://github.com/PrithwisK07/Space-Arcade.git
+   cd Space-Arcade
+   
 3. Create a new branch
 ```bash
 git checkout -b your-feature-name
@@ -50,7 +50,6 @@ Go to the GitHub page of your fork and click “Compare & pull request.”
 
 - New enemy types or behaviors (e.g. shooters, zig-zag movement)  
 - Sound effects and music  
-- UI improvements (main menu, game over screen)  
 - Game settings (difficulty levels, volume controls)  
 - Power-ups or shield system  
 - High score persistence using `localStorage`
