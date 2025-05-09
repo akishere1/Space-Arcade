@@ -40,6 +40,7 @@ Space-Arcade/
 │   ├── explosions.png
 │   └── ...
 ├── README.md
+└── CONTRIBUTING.md
 ```
 
 🙌 Contributing
